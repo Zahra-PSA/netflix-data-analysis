@@ -75,7 +75,7 @@ The dashboard includes KPI cards, charts, and filters for exploring Netflix's co
 
 ![Netflix Dashboard](screenshots/dashboard_2.png)
 
-#### Country Analysis
+#### Duration and rating Analysis
 
 ![Netflix Dashboard](screenshots/dashboard_3.png)
 
